@@ -72,6 +72,8 @@ Bash是一个Unix Shell，作为[Bourne shell](https://en.wikipedia.org/wiki/Bou
 # Shells与模式
 
 bash shell有交互和非交互两种模式。
+交互式shell，指的是你可以输入命令并获得执行结果的shell。而非交互式shell，一般是执行一个命令、一个脚本的shell，它们通常不需要人工干预，例如系统维护脚本、后台脚本等。
+
 
 ## 交互模式
 
